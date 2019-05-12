@@ -13,11 +13,15 @@
   },
   "keywords": [
     "parcel",
-    "boilerplate"
+    "boilerplate",
+    "html",
+    "css"
   ],
   "devDependencies": {
     "parcel-bundler": "^1.12.3",
     "sass": "^1.17.3"
   },
-  "dependencies": {}
+  "dependencies": {
+    "sanitize.css": "^8.0.0"
+  }
 }

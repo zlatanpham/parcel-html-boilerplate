@@ -1,1 +1,3 @@
-console.log(1)
+import 'sanitize.css';
+
+console.log(1);
